@@ -1,16 +1,25 @@
-## Hi there 👋
+# Amber-cmyk-jpg
 
-<!--
-**Amber-cmyk-jpg/Amber-cmyk-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build clean, responsive interfaces by turning polished Figma designs into interactive JavaScript experiences. My work focuses on smooth animations, thoughtful layouts, and perfect spacing so every screen feels intentional.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a frontend developer, I enjoy crafting UI that looks great and works well across devices. I’m currently learning backend development with Node.js, Express, and MongoDB so I can become a full-stack developer.
+
+## Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Tailwind CSS
+- Figma design conversion
+- Node.js
+- Express.js
+- Git & GitHub
+- Vercel deployment
+
+## Goal
+
+Create pixel-perfect web apps that match design vision, stay fast, and make users feel confident.
+
